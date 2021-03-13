@@ -101,6 +101,7 @@ import com.google.gson.stream.MalformedJsonException;
  * @author Inderjeet Singh
  * @author Joel Leitch
  * @author Jesse Wilson
+ * @author Rohan Perera
  */
 public final class Gson {
   static final boolean DEFAULT_JSON_NON_EXECUTABLE = false;
